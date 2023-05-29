@@ -1,1 +1,1 @@
-# SITE-ESCOLA
+# SiteEscola
